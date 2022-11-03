@@ -1,0 +1,4 @@
+# Carpeta del IDE utilizada para el desarrollo (PHPStorm)
+.idea
+# Archivo de sistema operativo MacOS
+.DS_Store
