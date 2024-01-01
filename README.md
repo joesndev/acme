@@ -1,6 +1,6 @@
 # ACME
 
-_Aplicación realizada con fines de prueba de conocimientos tecnicos para el cargo de desarrollador PHP en Grupo OET._
+_Aplicación._
 
 ## Comenzando 🚀
 
